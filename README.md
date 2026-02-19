@@ -3,7 +3,7 @@
 <h1 align="center">NovDev17</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=22&center=true&vCenter=true&width=500&lines=Code.+Build.+Innovate.;Silent+Developer;Always+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=22&center=true&vCenter=true&width=500&lines=Code.+Build.+Innovate.;Game+Developer;Always+Learning" />
 </p>
 
 ---
