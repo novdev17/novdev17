@@ -1,50 +1,56 @@
-<h1 align="center">Hi 👋, I'm Novdev</h1>
-<h3 align="center">Frontend Developer | Always Learning | Code • Build • Innovation</h3>
+<h1 align="center">Novdev</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=novdev17&label=Profile%20Views&color=0e75b6&style=flat" alt="novdev17" />
+  Silent Developer • Always Learning • Code Build Innovation
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Keep+Building+Everyday;Stay+Hungry+Stay+Coding;Always+Learning;Discipline+Over+Motivation;Code.+Build.+Innovate." />
 </p>
 
 
 
-## 🛠 Tech Stack
+### 🧑‍💻 About Me
+
+- 💻 Frontend & Web Developer  
+- 🌱 Currently learning modern JavaScript ecosystem  
+- 🐧 Linux Enthusiast  
+- 🚀 Building simple but impactful projects  
+
+
+
+### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Canvas-000000?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,linux,git,github,vscode" />
 </p>
 
 
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=novdev17&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=novdev17&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=novdev17&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novdev17&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=novdev17&theme=tokyonight&hide_border=true" />
 </p>
 
-
-
-## 🏆 Contributor Rank
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Rank-B-8A2BE2?style=for-the-badge"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novdev17&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 
 
-## 💬 Quote
+### 🏆 Rank
 
-> "Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter."  
-> — Eric S. Raymond
+<p align="center">
+  <img src="https://img.shields.io/badge/Developer%20Rank-B-8A2BE2?style=for-the-badge&logo=star&logoColor=white" />
+</p>
+
 
 
 <p align="center">
-  Thanks for visiting my profile 🚀
+  ⚡ Keep building. Stay consistent.
 </p>
