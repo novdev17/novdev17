@@ -1,7 +1,7 @@
 <h1 align="center">Novdev</h1>
 
 <p align="center">
-  Silent Developer • Always Learning • Code Build Innovation
+  Game Developer • Always Learning • Code Build Innovation
 </p>
 
 <p align="center">
@@ -48,6 +48,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Developer%20Rank-B-8A2BE2?style=for-the-badge&logo=star&logoColor=white" />
 </p>
+
 
 
 
