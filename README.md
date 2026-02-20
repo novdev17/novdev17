@@ -6,14 +6,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=22&center=true&vCenter=true&width=500&lines=Code.+Build.+Innovate.;Game+Developer;Always+Learning" />
 </p>
 
----
+
 
 ## ⚙️ Tech Focus
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,linux,git,github,vscode" />
 </p>
 
----
+
 
 ## 📊 Activity
 <p align="center">
@@ -24,7 +24,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NovDev17&theme=tokyonight&hide_border=true" />
 </p>
 
----
+
 
 <p align="center">
   <i>Building quietly.</i>
