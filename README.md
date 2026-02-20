@@ -21,12 +21,3 @@
 
 
 
-### 🏆 Rank
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Developer%20Rank-B-8A2BE2?style=for-the-badge&logo=star&logoColor=white" />
-</p>
-
-
-
-
